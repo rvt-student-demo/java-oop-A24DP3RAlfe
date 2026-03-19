@@ -1,0 +1,4 @@
+id,title,description,due_date,priority,completed
+1,Water plants,"Indoor and balcony plants",2026-02-12,Low,false
+2,Call mom,"Check in and plan visit",2026-02-14,Medium,false
+3,Submit invoice,"Send invoice for freelance work",2026-02-15,High,false

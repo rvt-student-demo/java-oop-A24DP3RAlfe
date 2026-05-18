@@ -1,10 +1,15 @@
 package rvt;
 
-import rvt.registration.RegistrationCLI;
+import javax.swing.JFrame;
 
 public class App {
     public static void main(String[] args) {
-        RegistrationCLI cli = new RegistrationCLI();
-        cli.start();
+        JFrame logs = new JFrame("Grafika");
+        logs.setSize(1024, 768);
+        logs.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        logs.setLocationRelativeTo(null); // Centrēts
+        logs.setVisible(true);
+
+        // logs.add();
     }
 }

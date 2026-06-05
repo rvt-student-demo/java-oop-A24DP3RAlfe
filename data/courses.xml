@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+  <course id="CS101">
+    <title>Introduction to Programming</title>
+    <description>Fundamentals of programming using Java: variables, control flow, and methods.</description>
+    <instructor>Jānis Bērziņš</instructor>
+    <lengthHours>40</lengthHours>
+    <students>120</students>
+    <level>beginner</level>
+  </course>
+
+  <course id="DB205">
+    <title>Datubāzu pamati (SQL)</title>
+    <description>Relāciju datubāzes, SQL vaicājumi, normalizācija un vienkārša SQLite lietošana.</description>
+    <instructor>Ilze Ozola</instructor>
+    <lengthHours>30</lengthHours>
+    <students>85</students>
+    <level>intermediate</level>
+  </course>
+
+  <course id="WD310">
+    <title>Web izstrāde ar HTML/CSS/JS</title>
+    <description>Frontend izstrāde: HTML struktūra, CSS stili un pamata JavaScript mijiedarbība.</description>
+    <instructor>Andris Kalniņš</instructor>
+    <lengthHours>50</lengthHours>
+    <students>60</students>
+    <level>professional</level>
+  </course>
+</courses>
